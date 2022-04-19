@@ -1,0 +1,45 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+#content{
+    width: 1200px;
+}
+.car, .plane{
+    height: 150px;
+}
+#navbar{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+#wrapper{
+    border: solid red;
+}
+.button{
+    border-radius: 50%;
+    width: 75px;
+}
+#maincar{
+    display: flex;
+}
+#cartext{
+    display: flex;
+}
+#mainplane{
+    display: flex;
+}
+#planetext{
+    display: flex;
+}
+#bottomtext{
+    display: flex;
+    border: solid blue;
+}
+.vid{
+    height: 300px;
+    rotate: 180deg;
+}
+#video{
+    display: flex;
+}
